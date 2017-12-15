@@ -1,0 +1,12 @@
+{
+  "name": "async_generator_poc",
+  "version": "1.0.0",
+  "description": "generator poc",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Akhil sahni",
+  "license": "ISC"
+}
